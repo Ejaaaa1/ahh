@@ -13,7 +13,8 @@ It's made with [PyTgCalls](https://github.com/pytgcalls/pytgcalls) and [Pyrogram
 ## Deployment
 
 ### Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+<p><a href="https://heroku.com/deploy?template=https://github.com/Ejaaaa1/ahh/tree/main"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"/></a></p>
 
 ### Local Deploy
 1) Installing NodeJS
